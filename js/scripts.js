@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	
-	var username = 'FacebookDevGarage'; // Instead of a usrname you can put an ID
+	var username = 'cocacola'; // Instead of a usrname you can put an ID
 	
 	$.ajax({
 		'type':'GET',
